@@ -1,4 +1,3 @@
-
 puts "Enter a word to test if its a palindrome:"
 user_input=gets.chomp
 

@@ -1,4 +1,8 @@
-===== Practice Repo to back-up code
+===== Practice Repo to back-up code for:
 * Ruby
+* Python
 * JavaScript
-
+* Node.js
+* C#
+* Java
+* More to be added

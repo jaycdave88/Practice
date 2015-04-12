@@ -1,1 +1,4 @@
-===== Practice Repo to back up code 
+===== Practice Repo to back-up code
+* Ruby
+* JavaScript
+
